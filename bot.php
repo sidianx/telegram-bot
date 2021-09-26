@@ -25,6 +25,7 @@ $channel_id = "-100xxxxxxxxxx";
         send_message($chat_id,$message_id, "
           /search <query> (Google search)
           \n/bin <bin> (Bin Data)
+          \n/chk <cc> (Checker CC)
           \n/weather <name of your city> (Current weather Status)
           \n/dice <dice emoji>
           \n/date (today's date)
